@@ -1,0 +1,554 @@
+{
+  "captured_at": "2026-07-12T02:35:33+00:00",
+  "finished_at": "2026-07-12T02:41:48+00:00",
+  "shop_count": 136,
+  "criteria": "上架status=1、库存>0、Plus成品号、排除代充/卡密/共享/需自行注册或接码",
+  "note": "A=卖家明确写未禁码/可再次验证；B=只写已接码；C=未说明接码状态",
+  "products": [],
+  "errors": [
+    {
+      "token": "282D9KDL",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "0error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "5W34SF00",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "2425",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "7HVUEC3Y",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "M67EGQ4V",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "6TKPIT5E",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "VCSS5TUW",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "J3FIDOJO",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "YQUOBIW1",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "GTQ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "aishop",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "aistore",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "grok",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "O3N30X89",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "xiaoba",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "yoyohub",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "84FRGTKZ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "echo_dream",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "WPXSCE1B",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "W2WA61DN",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "oak",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "8XBEFW66",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "SubAIP",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "1CMPMUXM",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "htl",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ai-store",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "9T40GAS6",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "YFZZYN8N",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ChatShare",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "YP48FZ43",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "cohorsAI",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ONJ5DYXX",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "EK7VIFEG",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "X6H4JRXW",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "gaccode",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ganai",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "pixelshop",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "FV0SO242",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "OG8Y4FKO",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "I2XZHSEA",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "GPT9999",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "xiamai",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "74BNTMAU",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "FIFFGN4F",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "UMK5K588",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "JFWHT64I",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "AB7F82VQ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "4UOATQTU",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "iceaix",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "jieyou92",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "59FSBGJN",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "KQ73NYO7",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "lanyy",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "Hui-AI666",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ainx",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "Mintapi",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "7A4829UY",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "parhom",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "FNAOIGBK",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "rexmoo.ai",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "RSIAY6WR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "rick",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "FPG7WKL2",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ZQXOSYAD",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "haifs",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "superman",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "wckj",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "SQBAF2T3",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "WOXP888",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "yuaotian",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "XRE84N7M",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "99UV2HM5",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "BP7NFXYT",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "WURK0XWX",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "GT7KX1TN",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "zhubj",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "UQE4G5JR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "1AESI47M",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "L0K5A26F",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "33X1D2BV",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "22DHYNNV",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "61KF391I",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "HIRM9HZZ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "5VAWZDGD",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "YY4KVE2T",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "GuoWangovo",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "J5CA6VJZ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "Kegan04",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "47P8PKPP",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "KHRR17MS",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "AY1FXLQX",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "codex8",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "P5034CNR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "V38JA2MD",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "1VGV7A8U",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ED9POSCY",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "txai",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "J0Q89LSE",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "1E5DST9P",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "SEBYSZ6G",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "VUOJQOHY",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "1D0LD6BR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "dialogue",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "HCJW0TDL",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "AWXK3UJY",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "doge",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "MRBUOCI4",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "wohoo",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "YE9N6WYK",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "XWYIE6VL",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "339",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "3CCG4B0K",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "1DM0L7CR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "WYDOV9YM",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "qq987G",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "7KJU4N9A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "IK7OYLXZ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "wanghaha",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "6YHGJOPN",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "qiudaoyu777",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "geiliapi",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "ruozhen",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "2G4J2E1U",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "FireSpark",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "BVK9S0NZ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "911",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "84564786",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "P9HPIPWA",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "qingwaAA",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "1I2Y9GEC",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "HLT0XHF9",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "gpticu",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "shayulajiao",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "LQHCQF49",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "token": "V2M14U73",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ]
+}
