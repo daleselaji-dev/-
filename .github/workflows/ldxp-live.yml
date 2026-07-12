@@ -28,3 +28,4 @@ jobs:
           git add results/latest.json results/latest.md
           git diff --cached --quiet || git commit -m 'chore: update LDXP live scan result [skip ci]'
           git push
+# retrigger after workflow registration
